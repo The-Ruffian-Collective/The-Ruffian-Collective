@@ -11,7 +11,7 @@ Former high-end chef turned tech innovator. 25 years of running intense kitchens
 ```javascript
 const currentProjects = {
     main: "AI-powered hospitality management solutions",
-    tech: ["AI/ML", "SAAS Development", "Process Automation"],
+    tech: ["AI/ML", "SaaS Development", "Process Automation"],
     approach: "Build fast, test early, iterate often"
 }
 ```
@@ -19,7 +19,7 @@ const currentProjects = {
 #### Tech Arsenal
 - AI/ML Integration
 - Full-Stack Development
-- SAAS Architecture
+- SaaS Architecture
 - No-Code/Low-Code Solutions
 
 #### Collaboration
